@@ -2,6 +2,6 @@
 
 10 Say "Hello, World  :P";
 
-20 Goto 10
+20 Goto 10;
 
 ?>
